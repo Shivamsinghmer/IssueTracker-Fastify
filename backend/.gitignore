@@ -12,6 +12,7 @@ wheels/
 
 # Tool caches
 .ruff_cache/
+.freebuff/
 
 # Virtual environments
 .venv
